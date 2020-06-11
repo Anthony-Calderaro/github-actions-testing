@@ -1,0 +1,23 @@
+{
+  "name": "gha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony-Calderaro/gha-sl-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthony-Calderaro/gha-sl-test/issues"
+  },
+  "homepage": "https://github.com/Anthony-Calderaro/gha-sl-test#readme",
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
+}
